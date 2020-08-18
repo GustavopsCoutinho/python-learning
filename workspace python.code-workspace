@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Nim"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"/path to file/*.extension": "language"
+		},
+		"git.defaultCloneDirectory": "https://github.com/GustavopsCoutinho/studious-train",
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 500,
+		"pythonIndent.useTabOnHangingIndent": true
+	}
+}
